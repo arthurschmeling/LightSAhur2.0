@@ -28,7 +28,7 @@ Ideal para estudos de:
 
 ## 🌑 Luz apagada
 
-![Uploading Captura de tela 2026-05-28 141804.png…]()
+
 <img width="717" height="465" alt="Captura de tela 2026-05-28 141831" src="https://github.com/user-attachments/assets/9ae461ef-97d5-4c06-9be3-ff503d75d1cd" />
 
 ---
